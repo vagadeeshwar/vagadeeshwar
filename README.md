@@ -32,8 +32,3 @@ PostgreSQL • MariaDB • Snowflake • Redis
 - Building production-grade enterprise AI applications
 - Exploring advanced AI agent architectures and distributed AI systems
 - Learning system design and scalable cloud-native engineering
-
-## Connect
-
-- LinkedIn: https://linkedin.com/in/vagadeeshwar-g-a95337200
-- Email: vagadeeshwarganesan@gmail.com
